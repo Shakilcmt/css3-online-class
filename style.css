@@ -44,6 +44,7 @@ body {
     width: 56px;
     height: 56px;
     margin-right: 16px;
+    border-radius: 50%;
 }
 
 .player h2 {
@@ -175,3 +176,10 @@ hr {
 
     }
 }
+
+/* h3 {
+    position: relative;
+    left: 280px;
+    top: 50px;
+    font-size: 15px;
+} */
