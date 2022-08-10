@@ -10,7 +10,7 @@ body {
 
 #container {
     background-color: #FFFFFF;
-    width: 80%;
+    width: 65%;
     /* height: 679px;
     left: 285px;
     top: 130px; */
@@ -37,13 +37,17 @@ body {
     margin-right: 33px;
     margin-left: 33px;
     margin-top: 3PX;
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .player img {
     width: 56px;
     height: 56px;
     margin-right: 16px;
+}
+
+.player h2 {
+    font-size: 18px;
 }
 
 hr {
@@ -76,9 +80,11 @@ hr {
 
 }
 
+
+
 .paragraph h2 {
     color: #000000;
-    font-size: 30px
+    font-size: 22px
 }
 
 .paragraph p a {
@@ -96,12 +102,29 @@ hr {
     display: flex;
 }
 
+#clock {
+    color: red;
+}
+
+#unique {
+    color: red;
+    background-color: rgb(250, 235, 215);
+    border: 1px solid rgb(250, 235, 215);
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+
 .icon {
     color: #FFC014;
 }
 
+.head h2 {
+    font-size: 20px;
+}
+
 .para {
     color: #ED6B4F;
+    font-size: 13px;
 }
 
 #unique {
